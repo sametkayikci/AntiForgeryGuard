@@ -2,7 +2,7 @@
 ﻿
 # AntiForgeryGuard
 
-Automate anti-forgery protection in your ASP.NET Core MVC applications by scanning controllers and views to ensure all HTTP POST methods and forms are properly secured against Cross-Site Request Forgery (CSRF) attacks.
+Automate anti-forgery protection in your .NET 8 MVC applications by scanning controllers and views to ensure all HTTP POST methods and forms are properly secured against Cross-Site Request Forgery (CSRF) attacks.
 
 ## Table of Contents
 
@@ -36,7 +36,7 @@ Automate anti-forgery protection in your ASP.NET Core MVC applications by scanni
 ## Prerequisites
 
 - **.NET 8 or later**: The project utilizes features like `[GeneratedRegex]` which are available in .NET 7 and above.
-- **ASP.NET 8 MVC Project**: Designed to work with ASP.NET Core MVC applications.
+- **.NET 8 MVC Project**: Designed to work with .NET 8 MVC applications.
 
 ## Installation
 
