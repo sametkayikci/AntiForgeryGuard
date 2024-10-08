@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AntiForgeryGuard", "AntiForgeryGuard\AntiForgeryGuard.csproj", "{F5B5C5C5-1ED7-454B-8C00-45B6BC90785D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AntiForgeryGuard.Tests", "AntiForgeryGuard.Tests\AntiForgeryGuard.Tests.csproj", "{F998932D-C935-485A-B4A7-859E17466AC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5B5C5C5-1ED7-454B-8C00-45B6BC90785D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5B5C5C5-1ED7-454B-8C00-45B6BC90785D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5B5C5C5-1ED7-454B-8C00-45B6BC90785D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5B5C5C5-1ED7-454B-8C00-45B6BC90785D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F998932D-C935-485A-B4A7-859E17466AC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F998932D-C935-485A-B4A7-859E17466AC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F998932D-C935-485A-B4A7-859E17466AC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F998932D-C935-485A-B4A7-859E17466AC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
