@@ -1,3 +1,4 @@
+[![Build Status](https://github.com/sametkayikci/AntiForgeryGuard/actions/workflows/ci.yml/badge.svg)](https://github.com/sametkayikci/AntiForgeryGuard/actions)
 ﻿
 # AntiForgeryGuard
 
