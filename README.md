@@ -36,7 +36,7 @@ Automate anti-forgery protection in your .NET 8 MVC applications by scanning con
 ## Prerequisites
 
 - **.NET 8 or later**: The project utilizes features like `[GeneratedRegex]` which are available in .NET 7 and above.
-- **.NET 8 MVC Project**: Designed to work with .NET 8 MVC applications.
+- **.NET 8 Project**: Designed to work with ASP.NET 8 MVC applications.
 
 ## Installation
 
