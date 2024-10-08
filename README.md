@@ -35,8 +35,8 @@ Automate anti-forgery protection in your ASP.NET Core MVC applications by scanni
 
 ## Prerequisites
 
-- **.NET 7 or later**: The project utilizes features like `[GeneratedRegex]` which are available in .NET 7 and above.
-- **ASP.NET Core MVC Project**: Designed to work with ASP.NET Core MVC applications.
+- **.NET 8 or later**: The project utilizes features like `[GeneratedRegex]` which are available in .NET 7 and above.
+- **ASP.NET 8 MVC Project**: Designed to work with ASP.NET Core MVC applications.
 
 ## Installation
 
