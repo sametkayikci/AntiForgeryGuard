@@ -1,4 +1,6 @@
-[![Build Status](https://github.com/sametkayikci/AntiForgeryGuard/actions/workflows/ci.yml/badge.svg)](https://github.com/sametkayikci/AntiForgeryGuard/actions)
+[![Build Status](https://github.com/sametkayikci/AntiForgeryGuard/actions/workflows/ci.yml/badge.svg)](https://github.com/sametkayikci/AntiForgeryGuard/actions) 
+![Downloads](https://img.shields.io/github/downloads/sametkayikci/AntiForgeryGuard/total.svg)
+
 ﻿
 # AntiForgeryGuard
 
