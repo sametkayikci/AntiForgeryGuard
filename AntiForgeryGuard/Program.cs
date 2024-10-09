@@ -13,10 +13,10 @@ public static class Program
 
         try
         {
-            const string controllersPath = @"C:\Projects\DBYS.UI\Controllers";
-            const string areasAdminControllersPath = @"C:\Projects\DBYS.UI\Areas\Admin\Controllers";
-            const string viewsPath = @"C:\Projects\DBYS.UI\Views";
-            const string areasAdminViewsPath = @"C:\Projects\DBYS.UI\Areas\Admin\Views";
+            const string controllersPath = @"C:\Projects\MyApp\Controllers";
+            const string areasAdminControllersPath = @"C:\Projects\MyApp\Areas\Admin\Controllers";
+            const string viewsPath = @"C:\Projects\MyApp\Views";
+            const string areasAdminViewsPath = @"C:\Projects\MyApp\Areas\Admin\Views";
 
             await service.ProcessControllersAsync(controllersPath, areasAdminControllersPath);
             await service.ProcessViewsAsync(viewsPath, areasAdminViewsPath);
